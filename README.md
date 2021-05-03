@@ -1,6 +1,6 @@
 ### Hi , This is Murad Hasan  👋
 
-  ## I'm a  JavaScript Lover 😍😍!
+  ## I'm a  JavaScript Developer 😎!
   - 🔭 I’m currently learning from [Programming Hero](https://web.programming-hero.com/)
   - 🌱 I’m currently want to learning everything 😎
   - 🥅 2021 Goals: TypeScript, Next.js

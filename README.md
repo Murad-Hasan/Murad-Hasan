@@ -1,4 +1,4 @@
-### Hi dude, This is Murad Hasan  👋
+### Hi , This is Murad Hasan  👋
 
   ## I'm a  JavaScript Lover 😍😍!
   - 🔭 I’m currently learning from [Programming Hero](https://web.programming-hero.com/)

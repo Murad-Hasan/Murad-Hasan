@@ -1,4 +1,4 @@
-### Hi , This is Murad Hasan  👋
+### Hi , My Self Murad Hasan  👋
 
   ## I'm a  JavaScript Developer 😎!
   - 🔭 I’m currently learning from [Programming Hero](https://web.programming-hero.com/)

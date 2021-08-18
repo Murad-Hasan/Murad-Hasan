@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murad-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="murad-hasan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murad-hasan" alt="murad-hasan" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js, Python, React-native**
 
 - 👨‍💻 All of my projects are available at [https://muradhasan-portfolio.netlify.app/](https://muradhasan-portfolio.netlify.app/)

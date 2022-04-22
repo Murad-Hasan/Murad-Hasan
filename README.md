@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murad-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="murad-hasan" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Python, React-native**
+- 🌱 I’m currently learning **Next.js, Python, C**
 
 - 👨‍💻 All of my projects are available at [https://muradhasan-portfolio.netlify.app/](https://muradhasan-portfolio.netlify.app/)
 

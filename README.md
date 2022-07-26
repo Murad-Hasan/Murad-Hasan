@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/murad__hasan" target="blank"><img src="https://img.shields.io/twitter/follow/murad__hasan?logo=twitter&style=for-the-badge" alt="murad__hasan" /></a> </p>
 
-- 🌱 I’m currently learning **C,C++,Next.js,TypeScript**
+- 🌱 I’m currently learning **C, C++, Next.js, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://muradhasan-portfolio.netlify.app/](https://muradhasan-portfolio.netlify.app/)
 

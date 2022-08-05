@@ -38,8 +38,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murad-hasan&show_icons=true&locale=en&layout=compact" alt="murad-hasan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murad-hasan&show_icons=true&locale=en" alt="murad-hasan" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murad-hasan" alt="murad-hasan" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murad-hasan&" alt="murad-hasan" /></p>
-
